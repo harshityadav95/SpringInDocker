@@ -1,6 +1,6 @@
-FROM adoptopenjdk/openjdk11:alpine-jre
+#FROM adoptopenjdk/openjdk11:alpine-jre
 
-#FROM adoptopenjdk:11-jre-hotspot
+FROM adoptopenjdk:11-jre-hotspot
 
 #FROM openjdk:8-jdk-alpine
 
