@@ -25,7 +25,7 @@ import com.CourierMgmnt.Models.Items;
  * @author hyadav23
  *
  */
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin
 @RestController
 public class HomeController {
 	
