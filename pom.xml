@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SpringInDocker</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringInDocker</name>
+	<artifactId>mytroubleartifact</artifactId>
+	<version>0</version>
+	<name>mytrouble</name>
 	<description>Courier Managment System Packed in Docker</description>
 	<properties>
 		<java.version>11</java.version>
